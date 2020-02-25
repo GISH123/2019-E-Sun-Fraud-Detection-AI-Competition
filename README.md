@@ -1,6 +1,6 @@
 ## Refer to process_flow.docx for the overview of the process.
 
-![image](picture or gif url)
+![image](https://github.com/GISH123/2019-E-Sun-Fraud-Detection-AI-Competition/blob/master/process%20flow.jpg)
 
 # https://tbrain.trendmicro.com.tw/Competitions/Details/10
 If you want to know more about the competition, please refer to the site.
